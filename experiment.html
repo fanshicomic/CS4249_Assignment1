@@ -94,7 +94,6 @@
             var pid;
 
             function next () {
-                console.log(1);
                 if (currentTrial !== 0) {
                     var trialResult = ACPToolKit.getCurrentTrialState();
 
@@ -117,6 +116,8 @@
                 }
 
                 if (currentTrial < totalNumberOfTrials) {
+                    console.log(trialsData);
+                    console.log(currentTrial);
                     ACPToolKit.presentTrial(trialsData[currentTrial]);
                     currentTrial += 1;
                     $('.js-expt-current-trial').text(currentTrial);
@@ -126,11 +127,13 @@
                         currentBlock += 1;
                         blocksData = data;
                         trialsData = blocksData["Block_" + currentBlock];
+                        ACPToolKit.presentTrial(trialsData[currentTrial]);
+                        currentTrial += 1;
+                        console.log(currentTrial);
+                        console.log(currentBlock);
+                        $('.js-expt-current-trial').text(currentTrial);
+                        $('.js-expt-current-block').text(currentBlock);
                     });
-                    ACPToolKit.presentTrial(trialsData[currentTrial]);
-                    currentTrial += 1;
-                    $('.js-expt-current-trial').text(currentTrial);
-                    $('.js-expt-current-block').text(currentBlock);
                 } else {
                     // Last trial completed
                     ACPToolKit.downloadTrialResults(trialData);
