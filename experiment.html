@@ -61,7 +61,8 @@
                     </table>
                     <p>Please copy-paste the following <span class="js-expt-granularity">phrase</span> using the <span class="js-expt-technique">AUTOCOMPASTE</span> technique from one of the open windows.</p>
                     <div id="stimuli" class="alert alert-danger js-expt-stimuli">This is a long stimuli!</div>
-                    <button class="btn btn-primary btn-lg" onclick="next()">Next Task</button>
+                    <button class="btn btn-primary btn-lg nextButton" onclick="next()">Next Task</button>
+                    <button class="btn btn-primary btn-lg continueButton" onclick="continueTask()">Continue</button>
                 </div>
                 <div id="autocompaste" class="col-sm-9">
                     <div id="autocompaste-display"></div>
@@ -92,6 +93,8 @@
                             'Trial End Time', 'Trial Time', 'Accuracy'];
             var trialData = [];
             var pid;
+            var breakInternval;
+            var canContinue = false;
 
             function next () {
                 if (currentTrial !== 0) {
@@ -116,24 +119,32 @@
                 }
 
                 if (currentTrial < totalNumberOfTrials) {
-                    console.log(trialsData);
-                    console.log(currentTrial);
                     ACPToolKit.presentTrial(trialsData[currentTrial]);
                     currentTrial += 1;
                     $('.js-expt-current-trial').text(currentTrial);
                 } else if (currentBlock < totalNumberOfBlocks) {
-                    $.get(participantsExperimentFile, function (data) {
-                        currentTrial = 0;
-                        currentBlock += 1;
-                        blocksData = data;
-                        trialsData = blocksData["Block_" + currentBlock];
-                        ACPToolKit.presentTrial(trialsData[currentTrial]);
-                        currentTrial += 1;
-                        console.log(currentTrial);
-                        console.log(currentBlock);
-                        $('.js-expt-current-trial').text(currentTrial);
-                        $('.js-expt-current-block').text(currentBlock);
-                    });
+                    $('.nextButton').prop('disabled', true);
+                    $('.continueButton').show();
+                    breakInternval = self.setInterval(function() {
+                        if (canContinue) {
+                            $.get(participantsExperimentFile, function (data) {
+                                currentTrial = 0;
+                                currentBlock += 1;
+                                blocksData = data;
+                                trialsData = blocksData["Block_" + currentBlock];
+                                ACPToolKit.presentTrial(trialsData[currentTrial]);
+                                currentTrial += 1;
+                                $('.js-expt-current-trial').text(currentTrial);
+                                $('.js-expt-current-block').text(currentBlock);
+                                $('.continueButton').hide();
+                                $('.nextButton').prop('disabled', false);
+                                canContinue = false;
+                                breakInternval = window.clearInterval(breakInternval);
+                            });
+                        } else {
+                            
+                        }
+                    }, 500);
                 } else {
                     // Last trial completed
                     ACPToolKit.downloadTrialResults(trialData);
@@ -141,7 +152,12 @@
                 }
             }
 
+            function continueTask() {
+                canContinue = true;
+            }
+
             $(document).ready(function () {
+                $('.continueButton').hide();
                 pid = ACPToolKit.getCurrentParticipantId();
                 participantsExperimentFile = 'data/experiments' + '_' + pid + '.json';
                 $.get(participantsExperimentFile, function (data) {
