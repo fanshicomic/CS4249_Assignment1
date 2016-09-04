@@ -35,58 +35,202 @@
                 <div class="col-md-8 col-md-offset-2">
                     <h1>Pre-Experiment Questionnaire</h1>
                     <hr>
-                    <p>This part of the interface collects whatever pre-experiment information. Please come up with a basic questionnaire to help you to gather participant information. The purpose of this questionnaire is to report the participant data and convince readers that you have picked an appropriate target user group and the result has certain generalizability.</p>
 
-                    <p>Please put all information needed for participant: <span class="js-pid pid"></span></p>
+                    <p>Current participant: <span class="js-pid pid"></span></p>
 
                     <form id="pre-expt-form">
                         <div class="form-group">
-                            <label for="q1">Question 1 - Text</label>
+                            <label for="q1">Question 1 - Age</label>
                             <input type="text" class="form-control" id="q1" name="q1" placeholder="Enter answer">
                         </div>
                         <div class="form-group">
-                            <label for="q2">Question 2 - Radio</label>
+                            <label for="q2">Question 2 - Gender</label>
+                            <input type="text" class="form-control" id="q2" name="q2" placeholder="Enter answer">
+                        </div>
+                        <div class="form-group">
+                            <label for="q3">Question 3 - Occupation</label>
+                            <input type="text" class="form-control" id="q3" name="q3" placeholder="Enter answer">
+                        </div>
+                        <div class="form-group">
+                            <label for="q4">Question 4 - How do you consider the importance of computers in your life?</label>
                             <div class="radio">
                               <label>
-                                <input type="radio" name="q2" id="optionsRadios1" value="radio1">
-                                Radio response 1
+                                <input type="radio" name="q4" id="optionsRadios1" value="radio1">
+                                Not at all important
                               </label>
                             </div>
                             <div class="radio">
                               <label>
-                                <input type="radio" name="q2" id="optionsRadios2" value="radio2">
-                                Radio response 2
+                                <input type="radio" name="q4" id="optionsRadios2" value="radio2">
+                                Not important
+                              </label>
+                            </div>
+                             <div class="radio">
+                              <label>
+                                <input type="radio" name="q4" id="optionsRadios3" value="radio3">
+                                Fair
+                              </label>
+                            </div>
+                            <div class="radio">
+                              <label>
+                                <input type="radio" name="q4" id="optionsRadios4" value="radio4">
+                                Important
+                              </label>
+                            </div>
+                             <div class="radio">
+                              <label>
+                                <input type="radio" name="q4" id="optionsRadios5" value="radio5">
+                                Very Important
                               </label>
                             </div>
                         </div>
                         <div class="form-group">
-                            <label for="q3">Question 3 - Checkbox</label>
-                            <div class="checkbox">
+                            <label for="q5">Question 5 - How many years have you been using a computer?</label>
+                            <div class="radio">
                               <label>
-                                <input type="checkbox" name="q3" value="checkbox1">
-                                Checkbox response 1
+                                <input type="radio" name="q5" id="optionsRadios1" value="radio1">
+                                0 years
                               </label>
                             </div>
-                            <div class="checkbox">
+                            <div class="radio">
                               <label>
-                                <input type="checkbox" name="q3" value="checkbox2">
-                                Checkbox response 2
+                                <input type="radio" name="q5" id="optionsRadios2" value="radio2">
+                                1 - 2 years
+                              </label>
+                            </div>
+                             <div class="radio">
+                              <label>
+                                <input type="radio" name="q5" id="optionsRadios3" value="radio3">
+                                3 - 5 years
+                              </label>
+                            </div>
+                            <div class="radio">
+                              <label>
+                                <input type="radio" name="q5" id="optionsRadios4" value="radio4">
+                                6 - 10 years
+                              </label>
+                            </div>
+                             <div class="radio">
+                              <label>
+                                <input type="radio" name="q5" id="optionsRadios5" value="radio5">
+                                More than 10 years
                               </label>
                             </div>
                         </div>
                         <div class="form-group">
-                            <label for="q4">Question 4 - Select Options</label>
-                            <select class="form-control" name="q4">
-                                <option value="option1">Option response 1</option>
-                                <option value="option2">Option response 2</option>
-                                <option value="option3">Option response 3</option>
-                                <option value="option4">Option response 4</option>
-                                <option value="option1">Option response 5</option>
+                            <label for="q6">Question 6 - How often do you use a computer?</label>
+                            <div class="radio">
+                              <label>
+                                <input type="radio" name="q6" id="optionsRadios1" value="radio1">
+                                Never
+                              </label>
+                            </div>
+                            <div class="radio">
+                              <label>
+                                <input type="radio" name="q6" id="optionsRadios2" value="radio2">
+                                Monthly
+                              </label>
+                            </div>
+                             <div class="radio">
+                              <label>
+                                <input type="radio" name="q6" id="optionsRadios3" value="radio3">
+                                Weekly
+                              </label>
+                            </div>
+                            <div class="radio">
+                              <label>
+                                <input type="radio" name="q6" id="optionsRadios4" value="radio4">
+                                Daily
+                              </label>
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label for="q7">Question 7 - How would you rate your computer skills?</label>
+                            <div class="radio">
+                              <label>
+                                <input type="radio" name="q7" id="optionsRadios1" value="radio1">
+                                Very poor
+                              </label>
+                            </div>
+                            <div class="radio">
+                              <label>
+                                <input type="radio" name="q7" id="optionsRadios2" value="radio2">
+                                Poor
+                              </label>
+                            </div>
+                             <div class="radio">
+                              <label>
+                                <input type="radio" name="q7" id="optionsRadios3" value="radio3">
+                                Fair
+                              </label>
+                            </div>
+                            <div class="radio">
+                              <label>
+                                <input type="radio" name="q7" id="optionsRadios4" value="radio4">
+                                Good
+                              </label>
+                            </div>
+                             <div class="radio">
+                              <label>
+                                <input type="radio" name="q7" id="optionsRadios5" value="radio5">
+                                Very good
+                              </label>
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label for="q8">Question 8 - What do you usually use a computer for?</label>
+                            <div class="checkbox">
+                              <label>
+                                <input type="checkbox" name="q8" value="checkbox1">
+                                Study
+                              </label>
+                            </div>
+                            <div class="checkbox">
+                              <label>
+                                <input type="checkbox" name="q8" value="checkbox2">
+                                Work
+                              </label>
+                            </div>
+                            <div class="checkbox">
+                              <label>
+                                <input type="checkbox" name="q8" value="checkbox3">
+                                Research
+                              </label>
+                            </div>
+                            <div class="checkbox">
+                              <label>
+                                <input type="checkbox" name="q8" value="checkbox4">
+                                Play games
+                              </label>
+                            </div>
+                            <div class="checkbox">
+                              <label>
+                                <input type="checkbox" name="q8" value="checkbox5">
+                                Entertainment
+                              </label>
+                            </div>
+                            <div class="checkbox">
+                              <label>
+                                <input type="checkbox" name="q8" value="checkbox6">
+                                Write code
+                              </label>
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label for="q9">Question 9 - How do you usually do copy paste?</label>
+                            <select class="form-control" name="q9">
+                                <option value="option1">Ctrl-C Ctrl-V</option>
+                                <option value="option2">Right click to copy and paste</option>
+                                <option value="option3">Others</option>
                             </select>
                         </div>
                         <div class="form-group">
-                            <label for="q5">Question 5 - Textarea</label>
-                            <textarea class="form-control" id="q5" name="q5" placeholder="Enter response"></textarea>
+                            <label for="q10">Question 10 - Which one do you use more often mouse or touchpad?</label>
+                            <select class="form-control" name="q10">
+                                <option value="option1">Same</option>
+                                <option value="option2">Mouse</option>
+                                <option value="option3">Touchpad</option>
+                            </select>
                         </div>
                         <button type="submit" class="btn btn-primary btn-lg">Submit</button>
                     </form>
