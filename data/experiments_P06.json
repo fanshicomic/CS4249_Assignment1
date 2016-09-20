@@ -1,0 +1,766 @@
+{
+    "Block_1": [
+        { 
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "sentence",
+            "device": "mouse",
+            "data_file": "data/texts.json",
+            "stimuli": "What is alkaline cell?" 
+        },
+        { 
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "sentence",
+            "device": "mouse",
+            "data_file": "data/texts.json",
+            "stimuli": "Circuit that passes an AC signal while blocking a DC voltage." 
+        },
+        { 
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "sentence",
+            "device": "mouse",
+            "data_file": "data/texts.json",
+            "stimuli": "What is anode?" 
+        },
+        { 
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "paragraph",
+            "device": "mouse",
+            "data_file": "data/texts.json",
+            "stimuli": "What is avionics? Aviation electronics." 
+        },
+        { 
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "paragraph",
+            "device": "mouse",
+            "data_file": "data/texts.json",
+            "stimuli": "What is AC coupling? Circuit that passes an AC signal while blocking a DC voltage." 
+        },
+        { 
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "paragraph",
+            "device": "mouse",
+            "data_file": "data/texts.json",
+            "stimuli": "What is binary? A number system having only two symbols, 0 and 1. A base 2 number system." 
+        },
+        { 
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "phrase",
+            "device": "mouse",
+            "data_file": "data/texts.json",
+            "stimuli": "articles makes them among the most common" 
+        },
+        { 
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "phrase",
+            "device": "mouse",
+            "data_file": "data/texts.json",
+            "stimuli": "is alternating current" 
+        },
+        { 
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "phrase",
+            "device": "mouse",
+            "data_file": "data/texts.json",
+            "stimuli": "graph representing all possible combinations" 
+        },
+        { 
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "sentence",
+            "device": "touchpad",
+            "data_file": "data/texts.json",
+            "stimuli": "Every noun must be accompanied by the article, if any, corresponding to its definiteness, and the lack of an article (considered a zero article) itself specifies a certain definiteness." 
+        },
+        { 
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "sentence",
+            "device": "touchpad",
+            "data_file": "data/texts.json",
+            "stimuli": "Also called a latch." 
+        },
+        { 
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "sentence",
+            "device": "touchpad",
+            "data_file": "data/texts.json",
+            "stimuli": "Equipment that will operate on either an AC or DC power source." 
+        },
+        { 
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "paragraph",
+            "device": "touchpad",
+            "data_file": "data/texts.json",
+            "stimuli": "What is apparent power? Power attained in an AC circuit as a product of effective voltage and current which reach their peak at different times." 
+        },
+        { 
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "paragraph",
+            "device": "touchpad",
+            "data_file": "data/texts.json",
+            "stimuli": "What is alternating current? An electric current that rises to a maximum in one direction, falls back to zero and then rises to a maximum in the opposite direction and then repeats." 
+        },
+        { 
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "paragraph",
+            "device": "touchpad",
+            "data_file": "data/texts.json",
+            "stimuli": "What is average value? A value of voltage or current where the area of the wave above the value equals the area of the wave below the value." 
+        },
+        { 
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "phrase",
+            "device": "touchpad",
+            "data_file": "data/texts.json",
+            "stimuli": "number of positive charges" 
+        },
+        { 
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "phrase",
+            "device": "touchpad",
+            "data_file": "data/texts.json",
+            "stimuli": "A three terminal device in which emitter to collector" 
+        },
+        { 
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "phrase",
+            "device": "touchpad",
+            "data_file": "data/texts.json",
+            "stimuli": "definiteness. This is in contrast to other adjectives" 
+        },
+        { 
+            "technique": "TRADITIONAL", 
+            "granularity": "sentence",
+            "device": "mouse",
+            "data_file": "data/texts.json",
+            "stimuli": "What is acceptor atoms?" 
+        },
+        { 
+            "technique": "TRADITIONAL", 
+            "granularity": "sentence",
+            "device": "mouse",
+            "data_file": "data/texts.json",
+            "stimuli": "A base 2 number system." 
+        },
+        { 
+            "technique": "TRADITIONAL", 
+            "granularity": "sentence",
+            "device": "mouse",
+            "data_file": "data/texts.json",
+            "stimuli": "What is acceptor atoms?" 
+        },
+        { 
+            "technique": "TRADITIONAL", 
+            "granularity": "paragraph",
+            "device": "mouse",
+            "data_file": "data/texts.json",
+            "stimuli": "It is also possible for articles to be part of another part of speech category such as a determiner, an English part of speech category that combines articles and demonstratives (such as 'this' and 'that')." 
+        },
+        { 
+            "technique": "TRADITIONAL", 
+            "granularity": "paragraph",
+            "device": "mouse",
+            "data_file": "data/texts.json",
+            "stimuli": "What is AC coupling? Circuit that passes an AC signal while blocking a DC voltage." 
+        },
+        { 
+            "technique": "TRADITIONAL", 
+            "granularity": "paragraph",
+            "device": "mouse",
+            "data_file": "data/texts.json",
+            "stimuli": "Power supply that delivers an AC voltage." 
+        },
+        { 
+            "technique": "TRADITIONAL", 
+            "granularity": "phrase",
+            "device": "mouse",
+            "data_file": "data/texts.json",
+            "stimuli": "transformer to achieve positive feedback" 
+        },
+        { 
+            "technique": "TRADITIONAL", 
+            "granularity": "phrase",
+            "device": "mouse",
+            "data_file": "data/texts.json",
+            "stimuli": "Name for an AC" 
+        },
+        { 
+            "technique": "TRADITIONAL", 
+            "granularity": "phrase",
+            "device": "mouse",
+            "data_file": "data/texts.json",
+            "stimuli": "number of positive charges" 
+        },
+        { 
+            "technique": "TRADITIONAL", 
+            "granularity": "sentence",
+            "device": "touchpad",
+            "data_file": "data/texts.json",
+            "stimuli": "Frequencies above and below the pass band are heavily attenuated." 
+        },
+        { 
+            "technique": "TRADITIONAL", 
+            "granularity": "sentence",
+            "device": "touchpad",
+            "data_file": "data/texts.json",
+            "stimuli": "What is antenna, receiving?" 
+        },
+        { 
+            "technique": "TRADITIONAL", 
+            "granularity": "sentence",
+            "device": "touchpad",
+            "data_file": "data/texts.json",
+            "stimuli": "What is bipolar junction transistor?" 
+        },
+        { 
+            "technique": "TRADITIONAL", 
+            "granularity": "paragraph",
+            "device": "touchpad",
+            "data_file": "data/texts.json",
+            "stimuli": "What is AC coupling? Circuit that passes an AC signal while blocking a DC voltage." 
+        },
+        { 
+            "technique": "TRADITIONAL", 
+            "granularity": "paragraph",
+            "device": "touchpad",
+            "data_file": "data/texts.json",
+            "stimuli": "Traditionally in English, an article is usually considered to be a type of adjective. In some languages, articles are a special part of speech, which cannot easily be combined with other parts of speech. It is also possible for articles to be part of another part of speech category such as a determiner, an English part of speech category that combines articles and demonstratives (such as 'this' and 'that')." 
+        },
+        { 
+            "technique": "TRADITIONAL", 
+            "granularity": "paragraph",
+            "device": "touchpad",
+            "data_file": "data/texts.json",
+            "stimuli": "What is AC load line? A graph representing all possible combinations of AC output voltage and currentfor an amplifier." 
+        },
+        { 
+            "technique": "TRADITIONAL", 
+            "granularity": "phrase",
+            "device": "touchpad",
+            "data_file": "data/texts.json",
+            "stimuli": "clip on the end of a test lead used to make a" 
+        },
+        { 
+            "technique": "TRADITIONAL", 
+            "granularity": "phrase",
+            "device": "touchpad",
+            "data_file": "data/texts.json",
+            "stimuli": "represented as continuously varying" 
+        },
+        { 
+            "technique": "TRADITIONAL", 
+            "granularity": "phrase",
+            "device": "touchpad",
+            "data_file": "data/texts.json",
+            "stimuli": "What is AC" 
+        }
+    ], 
+    "Block_2": [
+        { 
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "sentence",
+            "device": "mouse",
+            "data_file": "data/texts.json",
+            "stimuli": "Circuit that passes an AC signal while blocking a DC voltage." 
+        },
+        { 
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "sentence",
+            "device": "mouse",
+            "data_file": "data/texts.json",
+            "stimuli": "What is alkaline cell?" 
+        },
+        { 
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "sentence",
+            "device": "mouse",
+            "data_file": "data/texts.json",
+            "stimuli": "What is anode?" 
+        },
+        { 
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "paragraph",
+            "device": "mouse",
+            "data_file": "data/texts.json",
+            "stimuli": "What is AC coupling? Circuit that passes an AC signal while blocking a DC voltage." 
+        },
+        { 
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "paragraph",
+            "device": "mouse",
+            "data_file": "data/texts.json",
+            "stimuli": "What is avionics? Aviation electronics." 
+        },
+        { 
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "paragraph",
+            "device": "mouse",
+            "data_file": "data/texts.json",
+            "stimuli": "What is binary? A number system having only two symbols, 0 and 1. A base 2 number system." 
+        },
+        { 
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "phrase",
+            "device": "mouse",
+            "data_file": "data/texts.json",
+            "stimuli": "is alternating current" 
+        },
+        { 
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "phrase",
+            "device": "mouse",
+            "data_file": "data/texts.json",
+            "stimuli": "articles makes them among the most common" 
+        },
+        { 
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "phrase",
+            "device": "mouse",
+            "data_file": "data/texts.json",
+            "stimuli": "graph representing all possible combinations" 
+        },
+        { 
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "sentence",
+            "device": "touchpad",
+            "data_file": "data/texts.json",
+            "stimuli": "Also called a latch." 
+        },
+        { 
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "sentence",
+            "device": "touchpad",
+            "data_file": "data/texts.json",
+            "stimuli": "Every noun must be accompanied by the article, if any, corresponding to its definiteness, and the lack of an article (considered a zero article) itself specifies a certain definiteness." 
+        },
+        { 
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "sentence",
+            "device": "touchpad",
+            "data_file": "data/texts.json",
+            "stimuli": "Equipment that will operate on either an AC or DC power source." 
+        },
+        { 
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "paragraph",
+            "device": "touchpad",
+            "data_file": "data/texts.json",
+            "stimuli": "What is alternating current? An electric current that rises to a maximum in one direction, falls back to zero and then rises to a maximum in the opposite direction and then repeats." 
+        },
+        { 
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "paragraph",
+            "device": "touchpad",
+            "data_file": "data/texts.json",
+            "stimuli": "What is apparent power? Power attained in an AC circuit as a product of effective voltage and current which reach their peak at different times." 
+        },
+        { 
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "paragraph",
+            "device": "touchpad",
+            "data_file": "data/texts.json",
+            "stimuli": "What is average value? A value of voltage or current where the area of the wave above the value equals the area of the wave below the value." 
+        },
+        { 
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "phrase",
+            "device": "touchpad",
+            "data_file": "data/texts.json",
+            "stimuli": "A three terminal device in which emitter to collector" 
+        },
+        { 
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "phrase",
+            "device": "touchpad",
+            "data_file": "data/texts.json",
+            "stimuli": "number of positive charges" 
+        },
+        { 
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "phrase",
+            "device": "touchpad",
+            "data_file": "data/texts.json",
+            "stimuli": "definiteness. This is in contrast to other adjectives" 
+        },
+        { 
+            "technique": "TRADITIONAL", 
+            "granularity": "sentence",
+            "device": "mouse",
+            "data_file": "data/texts.json",
+            "stimuli": "A base 2 number system." 
+        },
+        { 
+            "technique": "TRADITIONAL", 
+            "granularity": "sentence",
+            "device": "mouse",
+            "data_file": "data/texts.json",
+            "stimuli": "What is acceptor atoms?" 
+        },
+        { 
+            "technique": "TRADITIONAL", 
+            "granularity": "sentence",
+            "device": "mouse",
+            "data_file": "data/texts.json",
+            "stimuli": "What is acceptor atoms?" 
+        },
+        { 
+            "technique": "TRADITIONAL", 
+            "granularity": "paragraph",
+            "device": "mouse",
+            "data_file": "data/texts.json",
+            "stimuli": "What is AC coupling? Circuit that passes an AC signal while blocking a DC voltage." 
+        },
+        { 
+            "technique": "TRADITIONAL", 
+            "granularity": "paragraph",
+            "device": "mouse",
+            "data_file": "data/texts.json",
+            "stimuli": "It is also possible for articles to be part of another part of speech category such as a determiner, an English part of speech category that combines articles and demonstratives (such as 'this' and 'that')." 
+        },
+        { 
+            "technique": "TRADITIONAL", 
+            "granularity": "paragraph",
+            "device": "mouse",
+            "data_file": "data/texts.json",
+            "stimuli": "Power supply that delivers an AC voltage." 
+        },
+        { 
+            "technique": "TRADITIONAL", 
+            "granularity": "phrase",
+            "device": "mouse",
+            "data_file": "data/texts.json",
+            "stimuli": "Name for an AC" 
+        },
+        { 
+            "technique": "TRADITIONAL", 
+            "granularity": "phrase",
+            "device": "mouse",
+            "data_file": "data/texts.json",
+            "stimuli": "transformer to achieve positive feedback" 
+        },
+        { 
+            "technique": "TRADITIONAL", 
+            "granularity": "phrase",
+            "device": "mouse",
+            "data_file": "data/texts.json",
+            "stimuli": "number of positive charges" 
+        },
+        { 
+            "technique": "TRADITIONAL", 
+            "granularity": "sentence",
+            "device": "touchpad",
+            "data_file": "data/texts.json",
+            "stimuli": "What is antenna, receiving?" 
+        },
+        { 
+            "technique": "TRADITIONAL", 
+            "granularity": "sentence",
+            "device": "touchpad",
+            "data_file": "data/texts.json",
+            "stimuli": "Frequencies above and below the pass band are heavily attenuated." 
+        },
+        { 
+            "technique": "TRADITIONAL", 
+            "granularity": "sentence",
+            "device": "touchpad",
+            "data_file": "data/texts.json",
+            "stimuli": "What is bipolar junction transistor?" 
+        },
+        { 
+            "technique": "TRADITIONAL", 
+            "granularity": "paragraph",
+            "device": "touchpad",
+            "data_file": "data/texts.json",
+            "stimuli": "Traditionally in English, an article is usually considered to be a type of adjective. In some languages, articles are a special part of speech, which cannot easily be combined with other parts of speech. It is also possible for articles to be part of another part of speech category such as a determiner, an English part of speech category that combines articles and demonstratives (such as 'this' and 'that')." 
+        },
+        { 
+            "technique": "TRADITIONAL", 
+            "granularity": "paragraph",
+            "device": "touchpad",
+            "data_file": "data/texts.json",
+            "stimuli": "What is AC coupling? Circuit that passes an AC signal while blocking a DC voltage." 
+        },
+        { 
+            "technique": "TRADITIONAL", 
+            "granularity": "paragraph",
+            "device": "touchpad",
+            "data_file": "data/texts.json",
+            "stimuli": "What is AC load line? A graph representing all possible combinations of AC output voltage and currentfor an amplifier." 
+        },
+        { 
+            "technique": "TRADITIONAL", 
+            "granularity": "phrase",
+            "device": "touchpad",
+            "data_file": "data/texts.json",
+            "stimuli": "represented as continuously varying" 
+        },
+        { 
+            "technique": "TRADITIONAL", 
+            "granularity": "phrase",
+            "device": "touchpad",
+            "data_file": "data/texts.json",
+            "stimuli": "clip on the end of a test lead used to make a" 
+        },
+        { 
+            "technique": "TRADITIONAL", 
+            "granularity": "phrase",
+            "device": "touchpad",
+            "data_file": "data/texts.json",
+            "stimuli": "What is AC" 
+        }
+    ],
+    "Block_3": [
+        { 
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "sentence",
+            "device": "mouse",
+            "data_file": "data/texts.json",
+            "stimuli": "What is anode?" 
+        },
+        { 
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "sentence",
+            "device": "mouse",
+            "data_file": "data/texts.json",
+            "stimuli": "Circuit that passes an AC signal while blocking a DC voltage." 
+        },
+        { 
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "sentence",
+            "device": "mouse",
+            "data_file": "data/texts.json",
+            "stimuli": "What is alkaline cell?" 
+        },
+        { 
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "paragraph",
+            "device": "mouse",
+            "data_file": "data/texts.json",
+            "stimuli": "What is binary? A number system having only two symbols, 0 and 1. A base 2 number system." 
+        },
+        { 
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "paragraph",
+            "device": "mouse",
+            "data_file": "data/texts.json",
+            "stimuli": "What is AC coupling? Circuit that passes an AC signal while blocking a DC voltage." 
+        },
+        { 
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "paragraph",
+            "device": "mouse",
+            "data_file": "data/texts.json",
+            "stimuli": "What is avionics? Aviation electronics." 
+        },
+        { 
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "phrase",
+            "device": "mouse",
+            "data_file": "data/texts.json",
+            "stimuli": "graph representing all possible combinations" 
+        },
+        { 
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "phrase",
+            "device": "mouse",
+            "data_file": "data/texts.json",
+            "stimuli": "is alternating current" 
+        },
+        { 
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "phrase",
+            "device": "mouse",
+            "data_file": "data/texts.json",
+            "stimuli": "articles makes them among the most common" 
+        },
+        { 
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "sentence",
+            "device": "touchpad",
+            "data_file": "data/texts.json",
+            "stimuli": "Equipment that will operate on either an AC or DC power source." 
+        },
+        { 
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "sentence",
+            "device": "touchpad",
+            "data_file": "data/texts.json",
+            "stimuli": "Also called a latch." 
+        },
+        { 
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "sentence",
+            "device": "touchpad",
+            "data_file": "data/texts.json",
+            "stimuli": "Every noun must be accompanied by the article, if any, corresponding to its definiteness, and the lack of an article (considered a zero article) itself specifies a certain definiteness." 
+        },
+        { 
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "paragraph",
+            "device": "touchpad",
+            "data_file": "data/texts.json",
+            "stimuli": "What is average value? A value of voltage or current where the area of the wave above the value equals the area of the wave below the value." 
+        },
+        { 
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "paragraph",
+            "device": "touchpad",
+            "data_file": "data/texts.json",
+            "stimuli": "What is alternating current? An electric current that rises to a maximum in one direction, falls back to zero and then rises to a maximum in the opposite direction and then repeats." 
+        },
+        { 
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "paragraph",
+            "device": "touchpad",
+            "data_file": "data/texts.json",
+            "stimuli": "What is apparent power? Power attained in an AC circuit as a product of effective voltage and current which reach their peak at different times." 
+        },
+        { 
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "phrase",
+            "device": "touchpad",
+            "data_file": "data/texts.json",
+            "stimuli": "definiteness. This is in contrast to other adjectives" 
+        },
+        { 
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "phrase",
+            "device": "touchpad",
+            "data_file": "data/texts.json",
+            "stimuli": "A three terminal device in which emitter to collector" 
+        },
+        { 
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "phrase",
+            "device": "touchpad",
+            "data_file": "data/texts.json",
+            "stimuli": "number of positive charges" 
+        },
+        { 
+            "technique": "TRADITIONAL", 
+            "granularity": "sentence",
+            "device": "mouse",
+            "data_file": "data/texts.json",
+            "stimuli": "What is acceptor atoms?" 
+        },
+        { 
+            "technique": "TRADITIONAL", 
+            "granularity": "sentence",
+            "device": "mouse",
+            "data_file": "data/texts.json",
+            "stimuli": "A base 2 number system." 
+        },
+        { 
+            "technique": "TRADITIONAL", 
+            "granularity": "sentence",
+            "device": "mouse",
+            "data_file": "data/texts.json",
+            "stimuli": "What is acceptor atoms?" 
+        },
+        { 
+            "technique": "TRADITIONAL", 
+            "granularity": "paragraph",
+            "device": "mouse",
+            "data_file": "data/texts.json",
+            "stimuli": "Power supply that delivers an AC voltage." 
+        },
+        { 
+            "technique": "TRADITIONAL", 
+            "granularity": "paragraph",
+            "device": "mouse",
+            "data_file": "data/texts.json",
+            "stimuli": "What is AC coupling? Circuit that passes an AC signal while blocking a DC voltage." 
+        },
+        { 
+            "technique": "TRADITIONAL", 
+            "granularity": "paragraph",
+            "device": "mouse",
+            "data_file": "data/texts.json",
+            "stimuli": "It is also possible for articles to be part of another part of speech category such as a determiner, an English part of speech category that combines articles and demonstratives (such as 'this' and 'that')." 
+        },
+        { 
+            "technique": "TRADITIONAL", 
+            "granularity": "phrase",
+            "device": "mouse",
+            "data_file": "data/texts.json",
+            "stimuli": "number of positive charges" 
+        },
+        { 
+            "technique": "TRADITIONAL", 
+            "granularity": "phrase",
+            "device": "mouse",
+            "data_file": "data/texts.json",
+            "stimuli": "Name for an AC" 
+        },
+        { 
+            "technique": "TRADITIONAL", 
+            "granularity": "phrase",
+            "device": "mouse",
+            "data_file": "data/texts.json",
+            "stimuli": "transformer to achieve positive feedback" 
+        },
+        { 
+            "technique": "TRADITIONAL", 
+            "granularity": "sentence",
+            "device": "touchpad",
+            "data_file": "data/texts.json",
+            "stimuli": "What is bipolar junction transistor?" 
+        },
+        { 
+            "technique": "TRADITIONAL", 
+            "granularity": "sentence",
+            "device": "touchpad",
+            "data_file": "data/texts.json",
+            "stimuli": "What is antenna, receiving?" 
+        },
+        { 
+            "technique": "TRADITIONAL", 
+            "granularity": "sentence",
+            "device": "touchpad",
+            "data_file": "data/texts.json",
+            "stimuli": "Frequencies above and below the pass band are heavily attenuated." 
+        },
+        { 
+            "technique": "TRADITIONAL", 
+            "granularity": "paragraph",
+            "device": "touchpad",
+            "data_file": "data/texts.json",
+            "stimuli": "What is AC load line? A graph representing all possible combinations of AC output voltage and currentfor an amplifier." 
+        },
+        { 
+            "technique": "TRADITIONAL", 
+            "granularity": "paragraph",
+            "device": "touchpad",
+            "data_file": "data/texts.json",
+            "stimuli": "Traditionally in English, an article is usually considered to be a type of adjective. In some languages, articles are a special part of speech, which cannot easily be combined with other parts of speech. It is also possible for articles to be part of another part of speech category such as a determiner, an English part of speech category that combines articles and demonstratives (such as 'this' and 'that')." 
+        },
+        { 
+            "technique": "TRADITIONAL", 
+            "granularity": "paragraph",
+            "device": "touchpad",
+            "data_file": "data/texts.json",
+            "stimuli": "What is AC coupling? Circuit that passes an AC signal while blocking a DC voltage." 
+        },
+        { 
+            "technique": "TRADITIONAL", 
+            "granularity": "phrase",
+            "device": "touchpad",
+            "data_file": "data/texts.json",
+            "stimuli": "What is AC" 
+        },
+        { 
+            "technique": "TRADITIONAL", 
+            "granularity": "phrase",
+            "device": "touchpad",
+            "data_file": "data/texts.json",
+            "stimuli": "represented as continuously varying" 
+        },
+        { 
+            "technique": "TRADITIONAL", 
+            "granularity": "phrase",
+            "device": "touchpad",
+            "data_file": "data/texts.json",
+            "stimuli": "clip on the end of a test lead used to make a" 
+        }
+    ]
+}
+
+    

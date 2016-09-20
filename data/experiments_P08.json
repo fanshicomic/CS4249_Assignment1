@@ -1,0 +1,766 @@
+{
+    "Block_1": [
+        { 
+            "technique": "TRADITIONAL", 
+            "granularity": "sentence",
+            "device": "mouse",
+            "data_file": "data/texts.json",
+            "stimuli": "What is ampere?" 
+        },
+        { 
+            "technique": "TRADITIONAL", 
+            "granularity": "sentence",
+            "device": "mouse",
+            "data_file": "data/texts.json",
+            "stimuli": "A single winding transformer where the output is taken from taps on the winding." 
+        },
+        { 
+            "technique": "TRADITIONAL", 
+            "granularity": "sentence",
+            "device": "mouse",
+            "data_file": "data/texts.json",
+            "stimuli": "What is acceptor atoms?" 
+        },
+        { 
+            "technique": "TRADITIONAL", 
+            "granularity": "paragraph",
+            "device": "mouse",
+            "data_file": "data/texts.json",
+            "stimuli": "What is bipolar junction transistor? (BJT), A three terminal device in which emitter to collector current is controlled by base current." 
+        },
+        { 
+            "technique": "TRADITIONAL", 
+            "granularity": "paragraph",
+            "device": "mouse",
+            "data_file": "data/texts.json",
+            "stimuli": "What is binary? A number system having only two symbols, 0 and 1. A base 2 number system." 
+        },
+        { 
+            "technique": "TRADITIONAL", 
+            "granularity": "paragraph",
+            "device": "mouse",
+            "data_file": "data/texts.json",
+            "stimuli": "In languages that employ articles, every common noun, with some exceptions, is expressed with a certain definiteness, just as many languages express every noun with a certain grammatical number. Every noun must be accompanied by the article, if any, corresponding to its definiteness, and the lack of an article (considered a zero article) itself specifies a certain definiteness. This is in contrast to other adjectives and determiners, which are typically optional. This obligatory nature of articles makes them among the most common words in many languages - in English, for example, the most frequent word is the." 
+        },
+        { 
+            "technique": "TRADITIONAL", 
+            "granularity": "phrase",
+            "device": "mouse",
+            "data_file": "data/texts.json",
+            "stimuli": "Trivalent atoms that accept free" 
+        },
+        { 
+            "technique": "TRADITIONAL", 
+            "granularity": "phrase",
+            "device": "mouse",
+            "data_file": "data/texts.json",
+            "stimuli": "Name for an AC" 
+        },
+        { 
+            "technique": "TRADITIONAL", 
+            "granularity": "phrase",
+            "device": "mouse",
+            "data_file": "data/texts.json",
+            "stimuli": "to emitter current in a bipolar junction" 
+        },
+        { 
+            "technique": "TRADITIONAL", 
+            "granularity": "sentence",
+            "device": "touchpad",
+            "data_file": "data/texts.json",
+            "stimuli": "A tuned circuit designed to pass a band of frequencies between a lower cut-off frequency (f1) and a higher cut-off frequency (f2)." 
+        },
+        { 
+            "technique": "TRADITIONAL", 
+            "granularity": "sentence",
+            "device": "touchpad",
+            "data_file": "data/texts.json",
+            "stimuli": "What is antenna, receiving?" 
+        },
+        { 
+            "technique": "TRADITIONAL", 
+            "granularity": "sentence",
+            "device": "touchpad",
+            "data_file": "data/texts.json",
+            "stimuli": "What is amplitude?" 
+        },
+        { 
+            "technique": "TRADITIONAL", 
+            "granularity": "paragraph",
+            "device": "touchpad",
+            "data_file": "data/texts.json",
+            "stimuli": "What is base biasing? A method of biasing a BJT in which the bias voltage is supplied to the base by means of a resistor." 
+        },
+        { 
+            "technique": "TRADITIONAL", 
+            "granularity": "paragraph",
+            "device": "touchpad",
+            "data_file": "data/texts.json",
+            "stimuli": "Traditionally in English, an article is usually considered to be a type of adjective. In some languages, articles are a special part of speech, which cannot easily be combined with other parts of speech. It is also possible for articles to be part of another part of speech category such as a determiner, an English part of speech category that combines articles and demonstratives (such as 'this' and 'that')." 
+        },
+        { 
+            "technique": "TRADITIONAL", 
+            "granularity": "paragraph",
+            "device": "touchpad",
+            "data_file": "data/texts.json",
+            "stimuli": "What is AC load line? A graph representing all possible combinations of AC output voltage and currentfor an amplifier." 
+        },
+        { 
+            "technique": "TRADITIONAL", 
+            "granularity": "phrase",
+            "device": "touchpad",
+            "data_file": "data/texts.json",
+            "stimuli": "itself specifies a certain" 
+        },
+        { 
+            "technique": "TRADITIONAL", 
+            "granularity": "phrase",
+            "device": "touchpad",
+            "data_file": "data/texts.json",
+            "stimuli": "that delivers an AC voltage" 
+        },
+        { 
+            "technique": "TRADITIONAL", 
+            "granularity": "phrase",
+            "device": "touchpad",
+            "data_file": "data/texts.json",
+            "stimuli": "that rises to a maximum in one direction" 
+        },
+        { 
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "sentence",
+            "device": "mouse",
+            "data_file": "data/texts.json",
+            "stimuli": "The rotating or moving component of a magnetic circuit." 
+        },
+        { 
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "sentence",
+            "device": "mouse",
+            "data_file": "data/texts.json",
+            "stimuli": "To reduce the amplitude of an action or signal." 
+        },
+        { 
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "sentence",
+            "device": "mouse",
+            "data_file": "data/texts.json",
+            "stimuli": " It is also possible for articles to be part of another part of speech category such as a determiner, an English part of speech category that combines articles and demonstratives (such as 'this' and 'that')." 
+        },
+        { 
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "paragraph",
+            "device": "mouse",
+            "data_file": "data/texts.json",
+            "stimuli": "What is AC/DC? Equipment that will operate on either an AC or DC power source." 
+        },
+        { 
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "paragraph",
+            "device": "mouse",
+            "data_file": "data/texts.json",
+            "stimuli": "What is ammeter? A meter used to measure current." 
+        },
+        { 
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "paragraph",
+            "device": "mouse",
+            "data_file": "data/texts.json",
+            "stimuli": "What is binary? A number system having only two symbols, 0 and 1. A base 2 number system." 
+        },
+        { 
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "phrase",
+            "device": "mouse",
+            "data_file": "data/texts.json",
+            "stimuli": "where the output is taken from" 
+        },
+        { 
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "phrase",
+            "device": "mouse",
+            "data_file": "data/texts.json",
+            "stimuli": "is alternating current" 
+        },
+        { 
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "phrase",
+            "device": "mouse",
+            "data_file": "data/texts.json",
+            "stimuli": "A number system having only two symbols" 
+        },
+        { 
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "sentence",
+            "device": "touchpad",
+            "data_file": "data/texts.json",
+            "stimuli": "Every noun must be accompanied by the article, if any, corresponding to its definiteness, and the lack of an article (considered a zero article) itself specifies a certain definiteness." 
+        },
+        { 
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "sentence",
+            "device": "touchpad",
+            "data_file": "data/texts.json",
+            "stimuli": "n languages that employ articles, every common noun, with some exceptions, is expressed with a certain definiteness, just as many languages express every noun with a certain grammatical number." 
+        },
+        { 
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "sentence",
+            "device": "touchpad",
+            "data_file": "data/texts.json",
+            "stimuli": "Equipment that will operate on either an AC or DC power source." 
+        },
+        { 
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "paragraph",
+            "device": "touchpad",
+            "data_file": "data/texts.json",
+            "stimuli": "What is acceptor atoms? Trivalent atoms that accept free electrons from pentavalent atoms." 
+        },
+        { 
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "paragraph",
+            "device": "touchpad",
+            "data_file": "data/texts.json",
+            "stimuli": "What is alternator? Name for an AC generator." 
+        },
+        { 
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "paragraph",
+            "device": "touchpad",
+            "data_file": "data/texts.json",
+            "stimuli": "What is average value? A value of voltage or current where the area of the wave above the value equals the area of the wave below the value." 
+        },
+        { 
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "phrase",
+            "device": "touchpad",
+            "data_file": "data/texts.json",
+            "stimuli": "number of positive charges" 
+        },
+        { 
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "phrase",
+            "device": "touchpad",
+            "data_file": "data/texts.json",
+            "stimuli": "A three terminal device in which emitter to collector" 
+        },
+        { 
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "phrase",
+            "device": "touchpad",
+            "data_file": "data/texts.json",
+            "stimuli": "electromagnetic wave into an electrical" 
+        }
+    ], 
+    "Block_2": [
+        { 
+            "technique": "TRADITIONAL", 
+            "granularity": "sentence",
+            "device": "mouse",
+            "data_file": "data/texts.json",
+            "stimuli": "A single winding transformer where the output is taken from taps on the winding." 
+        },
+        { 
+            "technique": "TRADITIONAL", 
+            "granularity": "sentence",
+            "device": "mouse",
+            "data_file": "data/texts.json",
+            "stimuli": "What is ampere?" 
+        },
+        { 
+            "technique": "TRADITIONAL", 
+            "granularity": "sentence",
+            "device": "mouse",
+            "data_file": "data/texts.json",
+            "stimuli": "What is acceptor atoms?" 
+        },
+        { 
+            "technique": "TRADITIONAL", 
+            "granularity": "paragraph",
+            "device": "mouse",
+            "data_file": "data/texts.json",
+            "stimuli": "What is binary? A number system having only two symbols, 0 and 1. A base 2 number system." 
+        },
+        { 
+            "technique": "TRADITIONAL", 
+            "granularity": "paragraph",
+            "device": "mouse",
+            "data_file": "data/texts.json",
+            "stimuli": "What is bipolar junction transistor? (BJT), A three terminal device in which emitter to collector current is controlled by base current." 
+        },
+        { 
+            "technique": "TRADITIONAL", 
+            "granularity": "paragraph",
+            "device": "mouse",
+            "data_file": "data/texts.json",
+            "stimuli": "In languages that employ articles, every common noun, with some exceptions, is expressed with a certain definiteness, just as many languages express every noun with a certain grammatical number. Every noun must be accompanied by the article, if any, corresponding to its definiteness, and the lack of an article (considered a zero article) itself specifies a certain definiteness. This is in contrast to other adjectives and determiners, which are typically optional. This obligatory nature of articles makes them among the most common words in many languages - in English, for example, the most frequent word is the." 
+        },
+        { 
+            "technique": "TRADITIONAL", 
+            "granularity": "phrase",
+            "device": "mouse",
+            "data_file": "data/texts.json",
+            "stimuli": "Name for an AC" 
+        },
+        { 
+            "technique": "TRADITIONAL", 
+            "granularity": "phrase",
+            "device": "mouse",
+            "data_file": "data/texts.json",
+            "stimuli": "Trivalent atoms that accept free" 
+        },
+        { 
+            "technique": "TRADITIONAL", 
+            "granularity": "phrase",
+            "device": "mouse",
+            "data_file": "data/texts.json",
+            "stimuli": "to emitter current in a bipolar junction" 
+        },
+        { 
+            "technique": "TRADITIONAL", 
+            "granularity": "sentence",
+            "device": "touchpad",
+            "data_file": "data/texts.json",
+            "stimuli": "What is antenna, receiving?" 
+        },
+        { 
+            "technique": "TRADITIONAL", 
+            "granularity": "sentence",
+            "device": "touchpad",
+            "data_file": "data/texts.json",
+            "stimuli": "A tuned circuit designed to pass a band of frequencies between a lower cut-off frequency (f1) and a higher cut-off frequency (f2)." 
+        },
+        { 
+            "technique": "TRADITIONAL", 
+            "granularity": "sentence",
+            "device": "touchpad",
+            "data_file": "data/texts.json",
+            "stimuli": "What is amplitude?" 
+        },
+        { 
+            "technique": "TRADITIONAL", 
+            "granularity": "paragraph",
+            "device": "touchpad",
+            "data_file": "data/texts.json",
+            "stimuli": "What is base biasing? A method of biasing a BJT in which the bias voltage is supplied to the base by means of a resistor." 
+        },
+        { 
+            "technique": "TRADITIONAL", 
+            "granularity": "paragraph",
+            "device": "touchpad",
+            "data_file": "data/texts.json",
+            "stimuli": "What is AC load line? A graph representing all possible combinations of AC output voltage and currentfor an amplifier." 
+        },
+        { 
+            "technique": "TRADITIONAL", 
+            "granularity": "paragraph",
+            "device": "touchpad",
+            "data_file": "data/texts.json",
+            "stimuli": "Traditionally in English, an article is usually considered to be a type of adjective. In some languages, articles are a special part of speech, which cannot easily be combined with other parts of speech. It is also possible for articles to be part of another part of speech category such as a determiner, an English part of speech category that combines articles and demonstratives (such as 'this' and 'that')." 
+        },
+        { 
+            "technique": "TRADITIONAL", 
+            "granularity": "phrase",
+            "device": "touchpad",
+            "data_file": "data/texts.json",
+            "stimuli": "that delivers an AC voltage" 
+        },
+        { 
+            "technique": "TRADITIONAL", 
+            "granularity": "phrase",
+            "device": "touchpad",
+            "data_file": "data/texts.json",
+            "stimuli": "that rises to a maximum in one direction" 
+        },
+        { 
+            "technique": "TRADITIONAL", 
+            "granularity": "phrase",
+            "device": "touchpad",
+            "data_file": "data/texts.json",
+            "stimuli": "itself specifies a certain" 
+        },
+        { 
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "sentence",
+            "device": "mouse",
+            "data_file": "data/texts.json",
+            "stimuli": "To reduce the amplitude of an action or signal." 
+        },
+        { 
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "sentence",
+            "device": "mouse",
+            "data_file": "data/texts.json",
+            "stimuli": "The rotating or moving component of a magnetic circuit." 
+        },
+        { 
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "sentence",
+            "device": "mouse",
+            "data_file": "data/texts.json",
+            "stimuli": " It is also possible for articles to be part of another part of speech category such as a determiner, an English part of speech category that combines articles and demonstratives (such as 'this' and 'that')." 
+        },
+        { 
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "paragraph",
+            "device": "mouse",
+            "data_file": "data/texts.json",
+            "stimuli": "What is AC/DC? Equipment that will operate on either an AC or DC power source." 
+        },
+        { 
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "paragraph",
+            "device": "mouse",
+            "data_file": "data/texts.json",
+            "stimuli": "What is binary? A number system having only two symbols, 0 and 1. A base 2 number system." 
+        },
+        { 
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "paragraph",
+            "device": "mouse",
+            "data_file": "data/texts.json",
+            "stimuli": "What is ammeter? A meter used to measure current." 
+        },
+        { 
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "phrase",
+            "device": "mouse",
+            "data_file": "data/texts.json",
+            "stimuli": "is alternating current" 
+        },
+        { 
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "phrase",
+            "device": "mouse",
+            "data_file": "data/texts.json",
+            "stimuli": "where the output is taken from" 
+        },
+        { 
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "phrase",
+            "device": "mouse",
+            "data_file": "data/texts.json",
+            "stimuli": "A number system having only two symbols" 
+        },
+        { 
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "sentence",
+            "device": "touchpad",
+            "data_file": "data/texts.json",
+            "stimuli": "n languages that employ articles, every common noun, with some exceptions, is expressed with a certain definiteness, just as many languages express every noun with a certain grammatical number." 
+        },
+        { 
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "sentence",
+            "device": "touchpad",
+            "data_file": "data/texts.json",
+            "stimuli": "Every noun must be accompanied by the article, if any, corresponding to its definiteness, and the lack of an article (considered a zero article) itself specifies a certain definiteness." 
+        },
+        { 
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "sentence",
+            "device": "touchpad",
+            "data_file": "data/texts.json",
+            "stimuli": "Equipment that will operate on either an AC or DC power source." 
+        },
+        { 
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "paragraph",
+            "device": "touchpad",
+            "data_file": "data/texts.json",
+            "stimuli": "What is average value? A value of voltage or current where the area of the wave above the value equals the area of the wave below the value." 
+        },
+        { 
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "paragraph",
+            "device": "touchpad",
+            "data_file": "data/texts.json",
+            "stimuli": "What is acceptor atoms? Trivalent atoms that accept free electrons from pentavalent atoms." 
+        },
+        { 
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "paragraph",
+            "device": "touchpad",
+            "data_file": "data/texts.json",
+            "stimuli": "What is alternator? Name for an AC generator." 
+        },
+        { 
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "phrase",
+            "device": "touchpad",
+            "data_file": "data/texts.json",
+            "stimuli": "electromagnetic wave into an electrical" 
+        },
+        { 
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "phrase",
+            "device": "touchpad",
+            "data_file": "data/texts.json",
+            "stimuli": "number of positive charges" 
+        },
+        { 
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "phrase",
+            "device": "touchpad",
+            "data_file": "data/texts.json",
+            "stimuli": "A three terminal device in which emitter to collector" 
+        }
+    ],
+    "Block_3": [
+        { 
+            "technique": "TRADITIONAL", 
+            "granularity": "sentence",
+            "device": "mouse",
+            "data_file": "data/texts.json",
+            "stimuli": "A single winding transformer where the output is taken from taps on the winding." 
+        },
+        { 
+            "technique": "TRADITIONAL", 
+            "granularity": "sentence",
+            "device": "mouse",
+            "data_file": "data/texts.json",
+            "stimuli": "What is ampere?" 
+        },
+        { 
+            "technique": "TRADITIONAL", 
+            "granularity": "sentence",
+            "device": "mouse",
+            "data_file": "data/texts.json",
+            "stimuli": "What is acceptor atoms?" 
+        },
+        { 
+            "technique": "TRADITIONAL", 
+            "granularity": "paragraph",
+            "device": "mouse",
+            "data_file": "data/texts.json",
+            "stimuli": "What is bipolar junction transistor? (BJT), A three terminal device in which emitter to collector current is controlled by base current." 
+        },
+        { 
+            "technique": "TRADITIONAL", 
+            "granularity": "paragraph",
+            "device": "mouse",
+            "data_file": "data/texts.json",
+            "stimuli": "In languages that employ articles, every common noun, with some exceptions, is expressed with a certain definiteness, just as many languages express every noun with a certain grammatical number. Every noun must be accompanied by the article, if any, corresponding to its definiteness, and the lack of an article (considered a zero article) itself specifies a certain definiteness. This is in contrast to other adjectives and determiners, which are typically optional. This obligatory nature of articles makes them among the most common words in many languages - in English, for example, the most frequent word is the." 
+        },
+        { 
+            "technique": "TRADITIONAL", 
+            "granularity": "paragraph",
+            "device": "mouse",
+            "data_file": "data/texts.json",
+            "stimuli": "What is binary? A number system having only two symbols, 0 and 1. A base 2 number system." 
+        },
+        { 
+            "technique": "TRADITIONAL", 
+            "granularity": "phrase",
+            "device": "mouse",
+            "data_file": "data/texts.json",
+            "stimuli": "to emitter current in a bipolar junction" 
+        },
+        { 
+            "technique": "TRADITIONAL", 
+            "granularity": "phrase",
+            "device": "mouse",
+            "data_file": "data/texts.json",
+            "stimuli": "Name for an AC" 
+        },
+        { 
+            "technique": "TRADITIONAL", 
+            "granularity": "phrase",
+            "device": "mouse",
+            "data_file": "data/texts.json",
+            "stimuli": "Trivalent atoms that accept free" 
+        },
+        { 
+            "technique": "TRADITIONAL", 
+            "granularity": "sentence",
+            "device": "touchpad",
+            "data_file": "data/texts.json",
+            "stimuli": "What is antenna, receiving?" 
+        },
+        { 
+            "technique": "TRADITIONAL", 
+            "granularity": "sentence",
+            "device": "touchpad",
+            "data_file": "data/texts.json",
+            "stimuli": "What is amplitude?" 
+        },
+        { 
+            "technique": "TRADITIONAL", 
+            "granularity": "sentence",
+            "device": "touchpad",
+            "data_file": "data/texts.json",
+            "stimuli": "A tuned circuit designed to pass a band of frequencies between a lower cut-off frequency (f1) and a higher cut-off frequency (f2)." 
+        },
+        { 
+            "technique": "TRADITIONAL", 
+            "granularity": "paragraph",
+            "device": "touchpad",
+            "data_file": "data/texts.json",
+            "stimuli": "What is AC load line? A graph representing all possible combinations of AC output voltage and currentfor an amplifier." 
+        },
+        { 
+            "technique": "TRADITIONAL", 
+            "granularity": "paragraph",
+            "device": "touchpad",
+            "data_file": "data/texts.json",
+            "stimuli": "What is base biasing? A method of biasing a BJT in which the bias voltage is supplied to the base by means of a resistor." 
+        },
+        { 
+            "technique": "TRADITIONAL", 
+            "granularity": "paragraph",
+            "device": "touchpad",
+            "data_file": "data/texts.json",
+            "stimuli": "Traditionally in English, an article is usually considered to be a type of adjective. In some languages, articles are a special part of speech, which cannot easily be combined with other parts of speech. It is also possible for articles to be part of another part of speech category such as a determiner, an English part of speech category that combines articles and demonstratives (such as 'this' and 'that')." 
+        },
+        { 
+            "technique": "TRADITIONAL", 
+            "granularity": "phrase",
+            "device": "touchpad",
+            "data_file": "data/texts.json",
+            "stimuli": "that delivers an AC voltage" 
+        },
+        { 
+            "technique": "TRADITIONAL", 
+            "granularity": "phrase",
+            "device": "touchpad",
+            "data_file": "data/texts.json",
+            "stimuli": "itself specifies a certain" 
+        },
+        { 
+            "technique": "TRADITIONAL", 
+            "granularity": "phrase",
+            "device": "touchpad",
+            "data_file": "data/texts.json",
+            "stimuli": "that rises to a maximum in one direction" 
+        },
+        { 
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "sentence",
+            "device": "mouse",
+            "data_file": "data/texts.json",
+            "stimuli": "To reduce the amplitude of an action or signal." 
+        },
+        { 
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "sentence",
+            "device": "mouse",
+            "data_file": "data/texts.json",
+            "stimuli": " It is also possible for articles to be part of another part of speech category such as a determiner, an English part of speech category that combines articles and demonstratives (such as 'this' and 'that')." 
+        },
+        { 
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "sentence",
+            "device": "mouse",
+            "data_file": "data/texts.json",
+            "stimuli": "The rotating or moving component of a magnetic circuit." 
+        },
+        { 
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "paragraph",
+            "device": "mouse",
+            "data_file": "data/texts.json",
+            "stimuli": "What is ammeter? A meter used to measure current." 
+        },
+        { 
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "paragraph",
+            "device": "mouse",
+            "data_file": "data/texts.json",
+            "stimuli": "What is AC/DC? Equipment that will operate on either an AC or DC power source." 
+        },
+        { 
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "paragraph",
+            "device": "mouse",
+            "data_file": "data/texts.json",
+            "stimuli": "What is binary? A number system having only two symbols, 0 and 1. A base 2 number system." 
+        },
+        { 
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "phrase",
+            "device": "mouse",
+            "data_file": "data/texts.json",
+            "stimuli": "where the output is taken from" 
+        },
+        { 
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "phrase",
+            "device": "mouse",
+            "data_file": "data/texts.json",
+            "stimuli": "is alternating current" 
+        },
+        { 
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "phrase",
+            "device": "mouse",
+            "data_file": "data/texts.json",
+            "stimuli": "A number system having only two symbols" 
+        },
+        { 
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "sentence",
+            "device": "touchpad",
+            "data_file": "data/texts.json",
+            "stimuli": "n languages that employ articles, every common noun, with some exceptions, is expressed with a certain definiteness, just as many languages express every noun with a certain grammatical number." 
+        },
+        { 
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "sentence",
+            "device": "touchpad",
+            "data_file": "data/texts.json",
+            "stimuli": "Equipment that will operate on either an AC or DC power source." 
+        },
+        { 
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "sentence",
+            "device": "touchpad",
+            "data_file": "data/texts.json",
+            "stimuli": "Every noun must be accompanied by the article, if any, corresponding to its definiteness, and the lack of an article (considered a zero article) itself specifies a certain definiteness." 
+        },
+        { 
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "paragraph",
+            "device": "touchpad",
+            "data_file": "data/texts.json",
+            "stimuli": "What is alternator? Name for an AC generator." 
+        },
+        { 
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "paragraph",
+            "device": "touchpad",
+            "data_file": "data/texts.json",
+            "stimuli": "What is average value? A value of voltage or current where the area of the wave above the value equals the area of the wave below the value." 
+        },
+        { 
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "paragraph",
+            "device": "touchpad",
+            "data_file": "data/texts.json",
+            "stimuli": "What is acceptor atoms? Trivalent atoms that accept free electrons from pentavalent atoms." 
+        },
+        { 
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "phrase",
+            "device": "touchpad",
+            "data_file": "data/texts.json",
+            "stimuli": "number of positive charges" 
+        },
+        { 
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "phrase",
+            "device": "touchpad",
+            "data_file": "data/texts.json",
+            "stimuli": "electromagnetic wave into an electrical" 
+        },
+        { 
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "phrase",
+            "device": "touchpad",
+            "data_file": "data/texts.json",
+            "stimuli": "A three terminal device in which emitter to collector" 
+        }
+    ]
+}
+
+    

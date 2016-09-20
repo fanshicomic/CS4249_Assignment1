@@ -128,6 +128,8 @@
                     breakInternval = self.setInterval(function() {
                         if (canContinue) {
                             $.get(participantsExperimentFile, function (data) {
+                                ACPToolKit.downloadTrialResults(trialData);
+
                                 currentTrial = 0;
                                 currentBlock += 1;
                                 blocksData = data;
@@ -140,6 +142,9 @@
                                 $('.nextButton').prop('disabled', false);
                                 canContinue = false;
                                 breakInternval = window.clearInterval(breakInternval);
+
+                                trialData = [];
+                                trialData.push(headers);
                             });
                         } else {
                             
